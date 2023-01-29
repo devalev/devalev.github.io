@@ -81404,7 +81404,7 @@ Uj(a){var s=0,r=A.ad(t.H),q=1,p,o=this,n,m,l,k,j,i
 var $async$uA=A.ae(function(b,c){if(b===1){p=c
 s=q}while(true)switch(s){case 0:q=3
 o.xA(o.c.DK(B.tO,B.JB))
-l=A.vQ("http://lsco.net.ua:82/task")
+l=A.vQ("https://cors-anywhere.herokuapp.com/http://lsco.net.ua:82/task")
 k=t.N
 k=A.az(["Content-Type","application/json; charset=UTF-8"],k,k)
 s=6
