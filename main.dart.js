@@ -81797,7 +81797,7 @@ A.ao0.prototype={
 $0(){var s=0,r=A.ad(t.H),q=this
 var $async$$0=A.ae(function(a,b){if(a===1)return A.aa(b,r)
 while(true)switch(s){case 0:s=2
-return A.aq(q.a.pI("first.json"),$async$$0)
+return A.aq(q.a.pI("assets/first.json"),$async$$0)
 case 2:return A.ab(null,r)}})
 return A.ac($async$$0,r)},
 $S:32}
@@ -81805,7 +81805,7 @@ A.ao1.prototype={
 $0(){var s=0,r=A.ad(t.H),q=this
 var $async$$0=A.ae(function(a,b){if(a===1)return A.aa(b,r)
 while(true)switch(s){case 0:s=2
-return A.aq(q.a.pI("second.json"),$async$$0)
+return A.aq(q.a.pI("assets/second.json"),$async$$0)
 case 2:return A.ab(null,r)}})
 return A.ac($async$$0,r)},
 $S:32}
@@ -81813,7 +81813,7 @@ A.ao2.prototype={
 $0(){var s=0,r=A.ad(t.H),q=this
 var $async$$0=A.ae(function(a,b){if(a===1)return A.aa(b,r)
 while(true)switch(s){case 0:s=2
-return A.aq(q.a.pI("third.json"),$async$$0)
+return A.aq(q.a.pI("assets/third.json"),$async$$0)
 case 2:return A.ab(null,r)}})
 return A.ac($async$$0,r)},
 $S:32}
