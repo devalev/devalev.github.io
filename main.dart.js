@@ -81741,7 +81741,7 @@ aaJ(a){var s,r,q,p,o,n,m,l=this
 if(l.e!=null){s=a.gt(a)
 if(t.Xb.b(a)){r=A.a([],t.Of)
 for(q=J.am(l.e.gfe());q.q();)r.push(q.gF(q))
-r.push(new A.jG('[{"RichText":{"TextSpan":[{"text":"\u0422\u0435\u043a\u0441\u0442:"}]}}]',A.a([new A.iy(l.e.gfU().gGu()===2?"$1$":'[{"MathText":{"text":"1"}}]',"true")],t.xg)))
+r.push(new A.jG('[{"RichText":{"TextSpan":[{"text":"\u0422\u0435\u043a\u0441\u0442:"}]}}]',A.a([new A.iy(l.e.gfU().gGu()===2?'[{"RichText":{"TextSpan":[{"text":"-9"}]}}]':'[{"MathText":{"text":"1"}}]',"true")],t.xg)))
 l.e=l.e.lE(r)}else if(t.FT.b(a)){r=A.a([],t.Of)
 for(q=J.am(l.e.gfe()),p=t.xg;q.q();){o=q.gF(q)
 n=A.a([],p)
