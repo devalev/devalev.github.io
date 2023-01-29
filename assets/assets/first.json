@@ -1,0 +1,34 @@
+{
+  "task": {
+    "taskTypeId": 1,
+    "taskId": 1,
+    "taskText": "null"
+  },
+  "questions": [
+    {
+      "questionText": "[{\"RichText\":{\"TextSpan\":[{\"text\":\"Обчислітьінтеграл\"}]}},{\"MathText\":{\"text\":\"\\\\int\\\\limits_{0}^2{2}\\\\left(f(x)+6\\\\right)dx,\"}},{\"RichText\":{\"TextSpan\":[{\"text\":\"якщо\"}]}},{\"MathText\":{\"text\":\"\\\\int\\\\limits_{0}^2{2}\\\\left(f(x)\\\\right)dx=8.\"}}]",
+      "answers": [
+        {
+          "answerText": "[{\"MathText\":{\"text\":\"20\"}}]",
+          "isCorrect": "false"
+        },
+        {
+          "answerText": "[{\"MathText\":{\"text\":\"14\"}}]",
+          "isCorrect": "true"
+        },
+        {
+          "answerText": "[{\"MathText\":{\"text\":\"2\"}}]",
+          "isCorrect": "false"
+        },
+        {
+          "answerText": "[{\"MathText\":{\"text\":\"28\"}}]",
+          "isCorrect": "false"
+        },
+        {
+          "answerText": "[{\"MathText\":{\"text\":\"48\"}}]",
+          "isCorrect": "false"
+        }
+      ]
+    }
+  ]
+}

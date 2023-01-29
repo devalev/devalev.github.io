@@ -1,0 +1,49 @@
+{
+  "task": {
+    "taskTypeId": 3,
+    "taskId": 3,
+    "taskText": "[{\"RichText\":{\"TextSpan\":[{\"text\":\"Дві однакові автоматичні лінії виготовляють 16 т шоколадної глазурі за 4 дні. Установіть відповідність між запитаннями та правильною відповіддю на нього. Уважайте, що кожна лінія виготовляє однакову кількість глазурі щодня\"}]}}]"
+  },
+  "questions": [
+    {
+      "questionText": "[{\"RichText\":{\"TextSpan\":[{\"text\":\"Скільки тонн шоколадної глазурі дві лінії виготовляють за 3 дні?\"}]}}]",
+      "answers": [
+        {
+          "answerText": "[{\"RichText\":{\"TextSpan\":[{\"text\":\"12\"}]}}]",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "questionText": "[{\"RichText\":{\"TextSpan\":[{\"text\":\"За скільки днів одна лінія виготовить 16 т шоколадної глазурі?\"}]}}]",
+      "answers": [
+        {
+          "answerText": "[{\"RichText\":{\"TextSpan\":[{\"text\":\"8\"}]}}]",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "questionText": "[{\"RichText\":{\"TextSpan\":[{\"text\":\"Скільки тонн шоколадної глазурі виготовить одна лінія за 2 дні?\"}]}}]",
+      "answers": [
+        {
+          "answerText": "[{\"RichText\":{\"TextSpan\":[{\"text\":\"4\"}]}}]",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "questionText": "[{\"RichText\":{\"TextSpan\":[{\"text\":\"Скільки таких ліній потрібно для виготовлення 48 т шоколадної глазурі за 4 дні?\"}]}}]",
+      "answers": [
+        {
+          "answerText": "[{\"RichText\":{\"TextSpan\":[{\"text\":\"6\"}]}}]",
+          "isCorrect": "true"
+        },
+        {
+          "answerText": "[{\"RichText\":{\"TextSpan\":[{\"text\":\"2\"}]}}]",
+          "isCorrect": "false"
+        }
+      ]
+    }
+  ]
+}

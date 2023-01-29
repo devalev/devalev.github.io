@@ -1,0 +1,18 @@
+{
+  "task": {
+    "taskTypeId": 2,
+    "taskId": 2,
+    "taskText": "[{\"RichText\":{\"TextSpan\":[{\"text\":\"Обчислітьзначеннявиразу\"}]}},{\"MathText\":{\"text\":\"\\\\frac{3\\\\sqrt{2}-5}{\\\\sqrt{2}-1}+\\\\frac{\\\\sqrt{24}-\\\\sqrt{300}}{\\\\sqrt{3}}\"}}]"
+  },
+  "questions": [
+    {
+      "questionText": "[{\"RichText\":{\"TextSpan\":[{\"text\":\"Відповідь:\"}]}}]",
+      "answers": [
+        {
+          "answerText": "$-9$",
+          "isCorrect": "true"
+        }
+      ]
+    }
+  ]
+}
