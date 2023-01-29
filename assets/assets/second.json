@@ -9,7 +9,7 @@
       "questionText": "[{\"RichText\":{\"TextSpan\":[{\"text\":\"Відповідь:\"}]}}]",
       "answers": [
         {
-          "answerText": "$-9$",
+          "answerText": "[{\"RichText\":{\"TextSpan\":[{\"text\":\"-9\"}]}}]",
           "isCorrect": "true"
         }
       ]
